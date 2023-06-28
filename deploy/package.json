@@ -1,7 +1,7 @@
 {
   "name": "crm-workflow-provision-user-contact-change",
   "author": "Chris Lennon",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "description": "crm-workflow-provision-user-contact-change fulfillment lambda",
   "private": true,
   "license": "Commercial",
